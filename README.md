@@ -1,4 +1,4 @@
-# Personal Portfolio Website — Septarina
+# Personal Portfolio Website — Septha
 **ERP Business Analyst | System Analyst | Data Analyst**
 
 This repository contains the source code for my personal portfolio website, hosted live at **[septha.github.io](https://septha.github.io)**. 
