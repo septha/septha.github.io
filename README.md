@@ -49,4 +49,3 @@ The website is structured into 5 core sections:
 ## 📬 Contact Information
 * **Website:** [septha.github.io](https://septha.github.io)
 * **Email:** septamahrup@gmail.com
-* **Location:** Semarang, Indonesia (Open to Remote & International Relocation)
