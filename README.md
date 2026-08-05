@@ -42,7 +42,7 @@ The website is structured into 5 core sections:
 
 ## 📄 Key Artifacts & Resources
 * 📁 **[View ERP System Analyst Portfolio Repository](https://github.com/septha/erp-system-analyst-portfolio)**
-* 🔗 **[Explore All GitHub Repositories](https://github.com/septha?tab=repositories)**[cite: 1]
+* 🔗 **[Explore All GitHub Repositories](https://github.com/septha?tab=repositories)**
 
 ---
 
